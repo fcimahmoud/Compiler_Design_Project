@@ -136,5 +136,8 @@ This project is open-source and available under the MIT License.
 
 ---
 
-## Author
-This project is open-source and available under the MIT License.
+## Contact
+Feel free to reach out for any questions or discussions:
+
+- Email: ma5740@fayoum.edu.eg
+- LinkedIn: https://www.linkedin.com/in/mahmoud-ahmed-3291b7229/
