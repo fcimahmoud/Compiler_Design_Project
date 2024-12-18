@@ -1,0 +1,40 @@
+Variable 'x' defined.
+Variable 'x' assigned integer value 5.
+_________________________
+Variable 'y' defined.
+Variable 'y' assigned integer value 10.
+_________________________
+The Condition is False.
+PRINT Value of Variable 'x' = 5
+_________________________
+Variable 'x' assigned integer value 6.
+_________________________
+The Condition is True.
+PRINT Value of Variable 'y' = 10
+_________________________
+PRINT Value of Expression = 0.00
+_________________________
+ELIF Block Executed.
+_________________________
+PRINT Value of Variable 'x' = 6
+_________________________
+Variable 'x' assigned integer value 7.
+_________________________
+Iteraton number 1 of the loop. 
+Iteraton number 2 of the loop. 
+Iteraton number 3 of the loop. 
+Iteraton number 4 of the loop. 
+WHILE Loop Excuted Succefully
+_______________________________
+Variable 'x' assigned integer value 0.
+_________________________
+Variable 'x' assigned integer value 1.
+_________________________
+PRINT Value of Variable 'x' = 1
+_________________________
+Iteraton number 1 of the loop. 
+Iteraton number 2 of the loop. 
+Iteraton number 3 of the loop. 
+Iteraton number 4 of the loop. 
+FOR Loop Excuted Succefully
+_______________________________
